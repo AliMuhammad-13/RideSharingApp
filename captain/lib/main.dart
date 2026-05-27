@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:captain/screens/login_screen.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
+//Author: Ali Muhammad
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
